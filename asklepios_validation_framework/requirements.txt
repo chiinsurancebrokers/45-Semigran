@@ -1,4 +1,0 @@
-# Asklepios Validation Framework
-anthropic>=0.25.0
-pandas>=2.0
-openpyxl>=3.1
